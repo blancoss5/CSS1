@@ -1,0 +1,35 @@
+body{
+    background-color: yellow;/*color de fondo de la etiqueta body*/
+}
+
+p{
+    color: blue;/*color de letra*/
+}
+
+a{
+    color: yellow;
+}
+
+form{
+    background-color: red;
+}
+h1{
+    color: lightblue;
+}
+/*
+Es posible editar las dimensiones y atributos de una imagen en css
+*/
+img{
+    width: 500px;/*ancho*/
+    height: 500px;/*alto*/
+    background-color: lawngreen; 
+    /*
+        de esta manera se hace un comentario
+    */
+}
+
+
+p{
+    color: red;
+    font-size: 10px;
+}
